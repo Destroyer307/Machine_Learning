@@ -1,21 +1,19 @@
-# Decision Tree – Diabetes Prediction
+# Machine Learning Projects
 
-This script trains a Decision Tree classifier to predict whether a patient has diabetes.
+This repository contains my machine learning studies, experiments and algorithm implementations.
 
-## Workflow
-- Load dataset  
-- Select features  
-- Train / test split  
-- Train Decision Tree  
-- Predict  
-- Calculate accuracy  
+## Included Works
 
-## Features
-Glucose, BloodPressure, Age, BMI, SkinThickness, Insulin, DiabetesPedigreeFunction
+### Decision Tree – Diabetes Prediction
+A classification model that predicts whether a patient has diabetes using medical data.
 
-## Target
-Outcome (0 = No diabetes, 1 = Diabetes)
+More projects will be added over time.
 
-## Run
-```bash
-python DecisionTree_Diabetes.py
+## Technologies
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+
+## Author
+Yiğit İbat Balta
